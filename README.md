@@ -7,6 +7,7 @@ This repository only for educational purpose. Reverse Engineering challenges, Pr
 cd
 rm -rf Reverser-key
 pkg install git
+pip install -r requirements.txt
 git clone https://github.com/James404-cyber/Reverser-key.git
 cd Reverser-key
 python Objects.py
