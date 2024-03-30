@@ -9,7 +9,7 @@ rm -rf Reverser-key
 pkg install git
 git clone https://github.com/James404-cyber/Reverser-key.git
 cd Reverser-key
-python objects.py
+python Objects.py
 
 
 ```
