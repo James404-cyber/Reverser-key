@@ -10,7 +10,7 @@ pkg install git
 pip install -r requirements.txt
 git clone https://github.com/James404-cyber/Reverser-key.git
 cd Reverser-key
-python Objects.py
+python Object.py
 
 
 ```
